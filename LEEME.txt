@@ -1,0 +1,23 @@
+INVITACIÓN MOLLY & JHOLBERT — COPIA INDEPENDIENTE
+
+CONTENIDO
+- index.html: invitación estática y pantalla de apertura del sobre.
+- app.js: apertura, música, carrusel, modal de fotos, regalos y cuenta regresiva.
+- assets/: estilos, fotografías y recursos gráficos.
+
+IMPORTANTE — MÚSICA
+Copia tu canción en assets/music.mp3 (ese nombre exacto).
+Empieza al pulsar "ABRIR INVITACIÓN" y el botón redondo (esquina inferior derecha)
+permite pausar y continuar.
+
+CAMBIOS DE ESTA VERSIÓN
+- Carrusel de la galería: cambia solo cada 4 s, con flechas, con los puntos o deslizando el dedo.
+- Cuenta regresiva real hacia el sábado 28/11/2026, 12:00 (hora de Lima).
+- CONFIRMAR ASISTENCIA abre WhatsApp al +51 948 578 787 con mensaje prellenado
+  (el texto está en el atributo href del enlace id="rsvp-whatsapp" en index.html).
+- Modal de regalos: QR centrado con marco blanco redondeado.
+- Botón flotante de música con ecualizador animado (reproduciendo) / nota musical (pausa).
+
+PRUEBA
+Abre index.html en un navegador. Para publicarla, sube el contenido completo de esta carpeta
+a la raíz de tu hosting (public_html).
